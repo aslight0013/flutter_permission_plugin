@@ -9,3 +9,7 @@ The Flutter permission_handler plugin is build following the federated plugin ar
 [2]: ./permission_handler/README.md
 [3]: https://pub.dev/packages/permission_handler_platform_interface
 [4]: ./permission_handler_platform_interface/README.md
+
+
+## Owner
+Artur S
